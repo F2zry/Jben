@@ -49,7 +49,7 @@ answer = input("╰─$ ")
 print('\033[1;32m\n')
 if answer == ("1"):
   #Set the target
-target = input("YOUR SITE URL and PORT : ")
+target = ("https://example.com/")
 
 attacklength = 10000
 
