@@ -34,14 +34,12 @@ print (f"""{red}|========================================|
                 |[08] Null                                        |
                 |[09] Null                                        |
                 |[10] Null                                        |
-                |========================================|{red}
+                |========================================|{red}""") 
                 
                 \033[1;91mCoded By : ./Itingsss
                           Versi    : Beta Tester
                           Team     :Jawa Barat Error Network
                           
-                \033[1;33mGithub : -
-""")
 print('')
 print(f'\033[37m')
 print(f"╭─[{yellow} Itingss@root {white} ~/home")
