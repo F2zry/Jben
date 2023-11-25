@@ -35,11 +35,11 @@ print (f"""{red}|========================================|
                 |[09] Null                                        |
                 |[10] Null                                        |
                 |========================================|{red}
-                """) 
                 
                 \033[1;91mCoded By : ./Itingsss
                           Versi    : Beta Tester
-                          Team     :Jawa Barat Error Network
+                          Team     :Jawa Barat Error Network 
+                """) 
                           
 print('')
 print(f'\033[37m')
